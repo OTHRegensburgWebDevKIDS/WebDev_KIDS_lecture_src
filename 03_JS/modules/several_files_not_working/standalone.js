@@ -1,0 +1,2 @@
+marge.sayHello();
+lisa.sayHello();
