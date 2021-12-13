@@ -1,1 +1,2 @@
-# WebDev_KIDS_lecture_src
+# WebDev KI und Data Science
+Sample code from the lectures
