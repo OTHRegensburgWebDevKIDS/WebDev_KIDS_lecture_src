@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS dbdemo_playlists;
+
+CREATE TABLE dbdemo_playlists (
+	ID SERIAL PRIMARY KEY,
+	TITLE VARCHAR
+);
+
+INSERT INTO dbdemo_playlists (TITLE) VALUES ('Happy Mood');
+INSERT INTO dbdemo_playlists (TITLE) VALUES ('Iconic songs');
